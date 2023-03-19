@@ -1,0 +1,16 @@
+[2023-03-19 12:32:59.789] [GIT  ] [/home/fgol] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 4 ms
+
+[2023-03-19 12:50:27.596] [GIT  ] [/home/fgol] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • bad revision '@' • 4 ms
+
+[2023-03-19 12:50:27.625] /home/fgol/.vscode-server/extensions/eamodio.gitlens-13.4.0/dist/gitlens.js:1:46392
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false -c diff.renameLimit=0 log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n41 master --
+fatal: bad revision 'master'
+
+[2023-03-19 12:50:27.853] /home/fgol/.vscode-server/extensions/eamodio.gitlens-13.4.0/dist/gitlens.js:1:46392
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false -c diff.renameLimit=0 log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n41 master --
+fatal: bad revision 'master'
+
+[2023-03-19 12:50:28.059] /home/fgol/.vscode-server/extensions/eamodio.gitlens-13.4.0/dist/gitlens.js:1:46392
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false -c diff.renameLimit=0 log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n41 master --
+fatal: bad revision 'master'
+

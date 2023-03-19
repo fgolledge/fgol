@@ -1,0 +1,18 @@
+2023-03-19 12:27:47.278 [info] 
+
+
+
+
+2023-03-19 12:27:47.278 [info] Extension host agent started.
+2023-03-19 12:27:47.301 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fgol/.vscode-server/extensions
+2023-03-19 12:27:47.522 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fgol/.vscode-server/extensions
+2023-03-19 12:27:47.637 [info] [127.0.0.1][c38b024b][ManagementConnection] New connection established.
+2023-03-19 12:27:48.053 [info] [127.0.0.1][c2167e97][ExtensionHostConnection] New connection established.
+2023-03-19 12:27:48.074 [info] [127.0.0.1][c2167e97][ExtensionHostConnection] <2595> Launched Extension Host Process.
+2023-03-19 12:32:54.345 [info] Getting Manifest... eamodio.gitlens
+2023-03-19 12:32:54.600 [info] Installing extension: eamodio.gitlens
+2023-03-19 12:32:58.660 [info] Extension signature verification: eamodio.gitlens. Verification status: Verified.
+2023-03-19 12:32:59.071 [info] Extracted extension to /home/fgol/.vscode-server/extensions/.895392f1-cbb9-4618-9086-82e4cc11838e: eamodio.gitlens
+2023-03-19 12:32:59.133 [info] Renamed to /home/fgol/.vscode-server/extensions/eamodio.gitlens-13.4.0
+2023-03-19 12:32:59.138 [info] Extracting extension completed. eamodio.gitlens
+2023-03-19 12:32:59.201 [info] Extension installed successfully: eamodio.gitlens
